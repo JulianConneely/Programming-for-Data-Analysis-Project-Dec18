@@ -4,7 +4,7 @@ In order to run Jupyter Notebook one must call the Jupyter Notebook command from
 Intermittently within GitHib there seems to be a problem rendering Notebook ipynb files, in this situation I have used https://nbviewer.jupyter.org/
 
 
-Problem statement
+Problem statement:
 
 For this project you must create a data set by simulating a real-world phenomenon of your choosing. You may pick any phenomenon you wish – you might pick one that is of interest to you in your personal or professional life. Then, rather than collect data related to the phenomenon, you should model and synthesise such data using Python. We suggest you use the numpy.random package for this purpose.
 
