@@ -1,5 +1,7 @@
 # Programming-for-Data-Analysis-Project-Dec18
-Programming for Data Analysis Project December 2018
+ 
+In order to run Jupyter Notebook one must call the Jupyter Notebook command from within Python or the command line, I use the Cmder program.
+Intermittently within GitHib there seems to be a problem rendering Notebook ipynb files, in this situation I have used https://nbviewer.jupyter.org/
 
 
 Problem statement
